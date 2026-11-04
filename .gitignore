@@ -1,0 +1,12 @@
+# Données locales
+data/*
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
